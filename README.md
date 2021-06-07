@@ -11,8 +11,20 @@ The purpose of this project is to extract data from different sources, transform
 
 ## Objectives 
 
-### Step 1 - Transform Data 
+### Step 1 - Extract Data 
 
 Extract CSV files into dataframes in Jupyter Notebook
 
 ![alt text](https://github.com/Serapbasaran/ETL-Project/blob/main/Images/image1.png)
+
+### Step 2 - Transform Data 
+
+Transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+
+![alt text](https://github.com/Serapbasaran/ETL-Project/blob/main/Images/image2.png)
+
+### Step 3 - Load Data
+
+Create database and tables through SQL
+
+![alt text](https://github.com/Serapbasaran/ETL-Project/blob/main/Images/image3.png)
